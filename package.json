@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
   "name": "tp-js-base",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+=======
+  "name": "tp-produits",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+>>>>>>> 606648d (Deuxieme commit)
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
+<<<<<<< HEAD
   "license": "ISC",
   "type": "module"
   
+=======
+  "license": "ISC"
+>>>>>>> 606648d (Deuxieme commit)
 }
